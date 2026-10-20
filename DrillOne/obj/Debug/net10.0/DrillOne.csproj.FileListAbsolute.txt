@@ -1,0 +1,14 @@
+/Users/mominak/Desktop/Method-Drillz/DrillOne/bin/Debug/net10.0/DrillOne
+/Users/mominak/Desktop/Method-Drillz/DrillOne/bin/Debug/net10.0/DrillOne.deps.json
+/Users/mominak/Desktop/Method-Drillz/DrillOne/bin/Debug/net10.0/DrillOne.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz/DrillOne/bin/Debug/net10.0/DrillOne.dll
+/Users/mominak/Desktop/Method-Drillz/DrillOne/bin/Debug/net10.0/DrillOne.pdb
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.dll
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/refint/DrillOne.dll
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.pdb
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/DrillOne.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/Debug/net10.0/ref/DrillOne.dll
