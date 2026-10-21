@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/bin/Debug/net10.0/DrillTwo
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/bin/Debug/net10.0/DrillTwo.deps.json
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/bin/Debug/net10.0/DrillTwo.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/bin/Debug/net10.0/DrillTwo.dll
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/bin/Debug/net10.0/DrillTwo.pdb
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.dll
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/refint/DrillTwo.dll
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.pdb
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/DrillTwo.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz/DrillTwo/obj/Debug/net10.0/ref/DrillTwo.dll
