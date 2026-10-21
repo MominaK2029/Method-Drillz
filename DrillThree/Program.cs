@@ -2,16 +2,19 @@
 
 class Program
 {
-    static int IsEven(int x);
-    {
-        if (int x % 2 == 0 )
+// Create method
+    static int IsEven(int e);
+{
+        if (e % 2 == 0)
         {
-            return true
+        return true
         }
         else:
         {
-        int x % 2 != 0;
+        return false
         }
-
-    } 
+    }
+    //If statements
+    //Else statement
+//Testing
 }
