@@ -2,19 +2,25 @@
 
 class Program
 {
-// Create method
-    static int IsEven(int e);
-{
-        if (e % 2 == 0)
+    static bool isEven (int x)
+    {
+        int remain = x % 2;
+        if (remain == 0)
         {
-        return true
+            return true;
         }
-        else:
+        else
         {
-        return false
+            return false;
         }
     }
-    //If statements
-    //Else statement
-//Testing
+    static void Main()
+        {
+            int x = 40;
+            if (isEven(x))
+                Console.WriteLine("True.");
+            else
+                Console.WriteLine("False.");
+        }
+
 }
