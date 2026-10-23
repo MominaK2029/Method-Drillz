@@ -15,14 +15,15 @@ class Program
         {
             return false;
         }
-        else
-        {
+            Console.WriteLine("Does this password have 8 chracters?" + (password.Length > 8));
+            Console.WriteLine("Does this password have 8 chracters?" + password.Contains (" "));
             return true;
-        }
 
     }
-    static void Main(string[] args);
-    {
-        bool result = IsValidPassword();
-    }
+
+       static void Main(string[] args);
+//     {
+//         bool result = IsValidPassword();
+//         Console.WriteLine("Is this password valid?" + result);
+//     }
 }
