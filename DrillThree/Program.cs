@@ -13,14 +13,13 @@ class Program
         {
             return false;
         }
+        //return n%2 == 0
     }
     static void Main()
         {
-            int x = 40;
-            if (isEven(x))
-                Console.WriteLine("True.");
-            else
-                Console.WriteLine("False.");
+            int x = 41;
+            bool result = isEven(x);
+            Console.WriteLine(result);
         }
 
 }

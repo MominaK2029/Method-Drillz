@@ -5,7 +5,6 @@ class Program
     static bool IsValidPassword(string password)
     {
         Console.WriteLine("Enter an 8 character password:");
-        password = Console.ReadLine() ?? string.Empty;
 
         if (password.Length < 8)
         {
@@ -21,9 +20,10 @@ class Program
 
     }
 
-       static void Main();
+       static void Main(string[] args)
             {
-                bool result = IsValidPassword();
-                Console.WriteLine(bool result)
+                string password = Console.ReadLine() ?? string.Empty;
+                bool result = IsValidPassword(password);
+                Console.WriteLine(result);
             }
 }
