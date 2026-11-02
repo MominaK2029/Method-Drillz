@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz/DrillThree/DrillThree.csproj",
+      "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillThree/DrillThree.csproj",
       "projectName": "DrillThree",
-      "projectPath": "/Users/mominak/Desktop/Method-Drillz/DrillThree/DrillThree.csproj",
+      "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillThree/DrillThree.csproj",
       "packagesPath": "/Users/mominak/.nuget/packages/",
-      "outputPath": "/Users/mominak/Desktop/Method-Drillz/DrillThree/obj/",
+      "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillThree/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mominak/.nuget/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz/DrillOne/DrillOne.csproj",
+      "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillOne/DrillOne.csproj",
       "projectName": "DrillOne",
-      "projectPath": "/Users/mominak/Desktop/Method-Drillz/DrillOne/DrillOne.csproj",
+      "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillOne/DrillOne.csproj",
       "packagesPath": "/Users/mominak/.nuget/packages/",
-      "outputPath": "/Users/mominak/Desktop/Method-Drillz/DrillOne/obj/",
+      "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillOne/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mominak/.nuget/NuGet/NuGet.Config"

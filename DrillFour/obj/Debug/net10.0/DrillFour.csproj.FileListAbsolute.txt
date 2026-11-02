@@ -3,3 +3,8 @@
 /Users/mominak/Desktop/Method-Drillz/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfo.cs
 /Users/mominak/Desktop/Method-Drillz/DrillFour/obj/Debug/net10.0/DrillFour.csproj.CoreCompileInputs.cache
 /Users/mominak/Desktop/Method-Drillz/DrillFour/obj/Debug/net10.0/DrillFour.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/Debug/net10.0/DrillFour.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/Debug/net10.0/DrillFour.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/Debug/net10.0/DrillFour.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/Debug/net10.0/DrillFour.sourcelink.json

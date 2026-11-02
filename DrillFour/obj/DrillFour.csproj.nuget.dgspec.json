@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mominak/Desktop/Method-Drillz/DrillFour/DrillFour.csproj": {}
+    "/Users/mominak/Desktop/Method-Drillz-1/DrillFour/DrillFour.csproj": {}
   },
   "projects": {
-    "/Users/mominak/Desktop/Method-Drillz/DrillFour/DrillFour.csproj": {
+    "/Users/mominak/Desktop/Method-Drillz-1/DrillFour/DrillFour.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz/DrillFour/DrillFour.csproj",
+        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillFour/DrillFour.csproj",
         "projectName": "DrillFour",
-        "projectPath": "/Users/mominak/Desktop/Method-Drillz/DrillFour/DrillFour.csproj",
+        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillFour/DrillFour.csproj",
         "packagesPath": "/Users/mominak/.nuget/packages/",
-        "outputPath": "/Users/mominak/Desktop/Method-Drillz/DrillFour/obj/",
+        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillFour/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mominak/.nuget/NuGet/NuGet.Config"

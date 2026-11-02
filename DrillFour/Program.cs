@@ -21,9 +21,9 @@ class Program
 
     }
 
-       static void Main(string[] args);
-//     {
-//         bool result = IsValidPassword();
-//         Console.WriteLine("Is this password valid?" + result);
-//     }
+       static void Main();
+            {
+                bool result = IsValidPassword();
+                Console.WriteLine(bool result)
+            }
 }
