@@ -27,3 +27,6 @@ class Program
                 Console.WriteLine(result);
             }
 }
+
+// if (password.Length >= 8 && !password.Contains(" "))
+// return true, else return
