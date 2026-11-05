@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/bin/Debug/net10.0/DrillSeven
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/bin/Debug/net10.0/DrillSeven.deps.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/bin/Debug/net10.0/DrillSeven.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/bin/Debug/net10.0/DrillSeven.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/bin/Debug/net10.0/DrillSeven.pdb
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/refint/DrillSeven.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.pdb
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/DrillSeven.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/Debug/net10.0/ref/DrillSeven.dll

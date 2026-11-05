@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/bin/Debug/net10.0/DrillSix
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/bin/Debug/net10.0/DrillSix.deps.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/bin/Debug/net10.0/DrillSix.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/bin/Debug/net10.0/DrillSix.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/bin/Debug/net10.0/DrillSix.pdb
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/refint/DrillSix.dll
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.pdb
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/DrillSix.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/Debug/net10.0/ref/DrillSix.dll
