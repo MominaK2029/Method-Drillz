@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillSix/DrillSix.csproj": {}
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSix/DrillSix.csproj": {}
   },
   "projects": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillSix/DrillSix.csproj": {
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSix/DrillSix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillSix/DrillSix.csproj",
+        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSix/DrillSix.csproj",
         "projectName": "DrillSix",
-        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillSix/DrillSix.csproj",
+        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSix/DrillSix.csproj",
         "packagesPath": "/Users/mominak/.nuget/packages/",
-        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillSix/obj/",
+        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSix/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mominak/.nuget/NuGet/NuGet.Config"

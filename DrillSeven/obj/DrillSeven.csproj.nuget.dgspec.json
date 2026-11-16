@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/DrillSeven.csproj": {}
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSeven/DrillSeven.csproj": {}
   },
   "projects": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/DrillSeven.csproj": {
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSeven/DrillSeven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/DrillSeven.csproj",
+        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSeven/DrillSeven.csproj",
         "projectName": "DrillSeven",
-        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/DrillSeven.csproj",
+        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSeven/DrillSeven.csproj",
         "packagesPath": "/Users/mominak/.nuget/packages/",
-        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillSeven/obj/",
+        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillSeven/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mominak/.nuget/NuGet/NuGet.Config"

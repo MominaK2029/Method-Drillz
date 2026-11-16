@@ -1,0 +1,15 @@
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/bin/Debug/net10.0/DrillFive
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/bin/Debug/net10.0/DrillFive.deps.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/bin/Debug/net10.0/DrillFive.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/bin/Debug/net10.0/DrillFive.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/bin/Debug/net10.0/DrillFive.pdb
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.AssemblyInfoInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.AssemblyInfo.cs
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.csproj.CoreCompileInputs.cache
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/refint/DrillFive.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.pdb
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/DrillFive.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/Debug/net10.0/ref/DrillFive.dll

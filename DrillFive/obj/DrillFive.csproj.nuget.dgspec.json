@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillFive/DrillFive.csproj": {}
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/DrillFive.csproj": {}
   },
   "projects": {
-    "/Users/mominak/Desktop/Method-Drillz-1/DrillFive/DrillFive.csproj": {
+    "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/DrillFive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/DrillFive/DrillFive.csproj",
+        "projectUniqueName": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/DrillFive.csproj",
         "projectName": "DrillFive",
-        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillFive/DrillFive.csproj",
+        "projectPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/DrillFive.csproj",
         "packagesPath": "/Users/mominak/.nuget/packages/",
-        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/DrillFive/obj/",
+        "outputPath": "/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillFive/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mominak/.nuget/NuGet/NuGet.Config"
