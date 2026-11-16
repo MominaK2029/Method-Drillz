@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="DrillEight/DrillEight.csproj" />
   <Project Path="DrillFive/DrillFive.csproj" />
   <Project Path="DrillFour/DrillFour.csproj" />
   <Project Path="DrillOne/DrillOne.csproj" />
