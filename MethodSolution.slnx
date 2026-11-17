@@ -2,6 +2,7 @@
   <Project Path="DrillEight/DrillEight.csproj" />
   <Project Path="DrillFive/DrillFive.csproj" />
   <Project Path="DrillFour/DrillFour.csproj" />
+  <Project Path="DrillNine/DrillNine.csproj" />
   <Project Path="DrillOne/DrillOne.csproj" />
   <Project Path="DrillSeven/DrillSeven.csproj" />
   <Project Path="DrillSix/DrillSix.csproj" />
