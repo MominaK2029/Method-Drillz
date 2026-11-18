@@ -2,19 +2,20 @@
 
 class Program
 {
-    string word = ("Hello");
-    int count = 0;
     static int CountVowel(string word)
     {
+        int count = 0;
         foreach (char c in word)
+
             if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U')
             {
-                count ++;
+                count++;
             }
         return count;
+
     }
     static void Main()
     {
-        Console.Write(CountVowel);
+        Console.WriteLine($"There are {CountVowel("Hello")} vowels in this word");
     }
 }

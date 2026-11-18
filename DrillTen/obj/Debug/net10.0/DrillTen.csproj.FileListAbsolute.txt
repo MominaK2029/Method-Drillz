@@ -3,3 +3,13 @@
 /Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.AssemblyInfo.cs
 /Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.csproj.CoreCompileInputs.cache
 /Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.sourcelink.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/bin/Debug/net10.0/DrillTen
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/bin/Debug/net10.0/DrillTen.deps.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/bin/Debug/net10.0/DrillTen.runtimeconfig.json
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/bin/Debug/net10.0/DrillTen.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/bin/Debug/net10.0/DrillTen.pdb
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/refint/DrillTen.dll
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.pdb
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/DrillTen.genruntimeconfig.cache
+/Users/mominak/Desktop/Method-Drillz-1/Method-Drillz/DrillTen/obj/Debug/net10.0/ref/DrillTen.dll
